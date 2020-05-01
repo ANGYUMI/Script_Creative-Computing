@@ -1,0 +1,36 @@
+/*
+// Creative Computing Tools vs.  Computer Science Counterparts
+
+// Creative Computing Tools
+- Processing (2001): 자바 기반의 프로그램으로, 전자예술이나 비주얼 디자인 커뮤니티를 위하여 제작되었다.
+- Scratch (2003)
+- App Inventor (2010)
+- OpenFrameworks (2006)
+- Cinder (2010): https://libcinder.org/, 고급 비주얼 기능을 구현하기 위해 C++로 디자인된 오픈 소스 프로그래밍 라이브러리이다. 
+
+// Computer Science Counterparts
+- Java
+- OpenGL
+- Adobe Flash
+- Android Studio
+- Developers
+- OpenCV
+- C++
+
+'General computing tools' like C++, Java is..  better tuning, flexibility, efficiency
+But , 'Creative computing tool' is OK for most of works we (especially artist, hobbyist) do and is Easier. 
+Hide what you don't want to know.. 
+
+If you want a quick demo, short time use, testing, for small audience 
+-> Use creative computing tools.
+– Consumes more power / memory?... no problem 
+– Focus on making things quickly & easily ... Cost is not
+
+If you want a commercial thing for many people, running on various
+phones / PC, even on small device
+-> Use general computing tools.
+– should optimize(최적화) performance, power / memory consumption
+– focus on running nicely 
+- Cost should be managed
+
+*/
