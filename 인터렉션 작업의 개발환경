@@ -1,0 +1,42 @@
+/*
+
+// 인터렉션 작업의 개발환경
+- PC: 컴퓨터의 다양한 확장 인터페이스 <-> 배포의 어려움
+- 웹: 배포의 간단함, 네트워크 데이터 <-> 인터페이스 확장의 어려움
+- 앱: 배포수단존재(앱스토어), 웹보다 다양한 인터페이스 <-> PC보다 부족한 인터페이스 확장력
+
+// 웹의 구조/ 실행장소: 웹브라우저
+- HTML: 구성요소(호칭 포함)와 내용(콘텐츠)정의 
+- CSS: 구성요소들의 모습 디자인
+- javascript: 구성요소들 간의 인터렉션 디자인, 미래디자인, 연출
+
+// javascript의 역할
+: 구성 요소들의 위치, 크기, 움직임 등을 사용자가 원하는데로 바꿀 수 있음. 
+특히 <canvas> 앨리먼트라는 구성요소에는 javascript를 통해 반응하는 그림도 그릴 수 있음.
+Canvas 엘리먼트: https://www.w3schools.com/html/html5_canvas.asp
+이 <canvas> 앨리먼트 내에 그리는 그림 부분을 쉽게 그릴 수 있도록 기능들을 미리 만들어둔 라이브러리들이 존재한다. 
+
+- http://paperjs.org/
+- http://processingjs.org/reference/
+- https://konvajs.github.io/
+- http://fabricjs.com/
+- http://html-canvas-lib.sourceforge.net/#about
+- http://www.bhivecanvas.com/
+
+// javascript를 이용할 수 있는 브라우저 외의 프로그램들
+- 인디자인 : http://basiljs.ch/gallery/geometrie-1/
+- 일러스트레이터: https://scriptographer.org/gallery/
+
+// 이번 학기의 목표
+<canvas> 엘리먼트를 가진 HTML파일을 만든 후, 그 안에 인터렉션이 가능한 그래픽을 그린다.
+- paper.js 라이브러리를 사용한다.
+- 간단한 포트폴리오 사이트를 만든다.
+- 자신만의 인터렉티브 아이콘을 만든다.
+
+과제: Interesting interactive web works research.
+과제 내용: 흥미로운 웹 인터렉션 작업 3개 이상 조사해서 각각
+1. 이미지
+2. 링크
+3. 선정한 이유
+
+*/
